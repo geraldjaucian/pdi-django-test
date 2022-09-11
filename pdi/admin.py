@@ -7,7 +7,6 @@ from django.contrib.admin import ModelAdmin
 from django.http import HttpResponse, HttpResponseRedirect
 from django.contrib.contenttypes.models import ContentType
 from django.core import serializers
-import pdfkit
 
 from .models import Employee, Department
 
