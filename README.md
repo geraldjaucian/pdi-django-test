@@ -1,4 +1,7 @@
 ```
+// clone this project
+
+// go to the project directory
 cd {project_dir}
 
 // create a virtual env
