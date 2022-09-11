@@ -1,3 +1,4 @@
+```
 cd {project_dir}
 
 // create a virtual env
@@ -20,3 +21,4 @@ python manage.py createsuperuser
 python manage.py runserver
 
 // login to the web app by using the created superuser
+```
